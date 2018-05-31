@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Tue May 29 10:59:14 EAT 2018*/
+/* DO NOT EDIT */
+
+grant codeBase "file:/c:/users/john/ideaprojects/wermi/src" {
+  permission java.security.AllPermission;
+};
+
